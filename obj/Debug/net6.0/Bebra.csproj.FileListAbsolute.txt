@@ -1,0 +1,15 @@
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\bin\Debug\net6.0\Bebra.exe
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\bin\Debug\net6.0\Bebra.deps.json
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\bin\Debug\net6.0\Bebra.runtimeconfig.json
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\bin\Debug\net6.0\Bebra.dll
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\bin\Debug\net6.0\Bebra.pdb
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.AssemblyInfo.cs
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.dll
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\refint\Bebra.dll
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.pdb
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\Bebra.genruntimeconfig.cache
+C:\Users\gavri\Desktop\Студенты\Янченко Савва\Bebra\obj\Debug\net6.0\ref\Bebra.dll
